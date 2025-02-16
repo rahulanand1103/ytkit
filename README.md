@@ -86,3 +86,18 @@ result = get_video_subtitle.get(
 )
 ```
 🚀 **ytkit** simplifies subtitle extraction for YouTube videos!
+
+
+## Acknowledgements
+
+This project leverages the power of two incredible open-source libraries: 
+
+- `scrapetube` (>=2.5.1, <3.0.0): A simple yet effective Python library for scraping YouTube channels and playlists. It made fetching video metadata seamless and efficient.
+
+- `youtube-transcript-api` (>=0.6.3, <0.7.0): This library provided a straightforward way to retrieve YouTube video transcripts, enabling automatic extraction of subtitles without requiring YouTube API keys.
+
+A huge thanks to the developers and maintainers of these projects for their contributions to the open-source community!
+
+If you find this project helpful, please consider checking out these libraries and giving them a star on GitHub.
+
+
