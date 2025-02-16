@@ -1,0 +1,3 @@
+/experiment/data/*
+**/__pycache__/
+dist/*
