@@ -1,4 +1,4 @@
-# ytkit 📺
+# ytkit 🎥
 
 With **ytkit**, you can fetch subtitles from entire YouTube channels, playlists, and search results in just a few lines of code! Perfect for RAG, AI applications, and content analysis.
 
